@@ -55,7 +55,6 @@ print(keywords)
 print(sents)
 '''
 
-
 from krwordrank.word import KRWordRank
 
 #texts = [] # Comments about 'La La Land (2016)'
