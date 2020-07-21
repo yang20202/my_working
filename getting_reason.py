@@ -1,7 +1,7 @@
 from selenium import webdriver as wd
 import time
 from krwordrank.sentence import summarize_with_sentences
-
+# something change
 options = wd.ChromeOptions()
 # 크롬창 안보이게
 options.add_argument('headless')
